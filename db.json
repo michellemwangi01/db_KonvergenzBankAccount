@@ -1,0 +1,40 @@
+{
+  "balance": {
+    "amount": 38883
+  },
+  "deposit": {
+    "count": 1,
+    "total": 41747,
+    "last_deposits": [
+      {
+        "ID": 1,
+        "amount": 23,
+        "date": "2024-04-10T03:27:30.360Z",
+        "transaction_type": "deposit"
+      },
+      {
+        "ID": 2,
+        "amount": 9009,
+        "date": "2024-04-10T03:29:28.872Z",
+        "transaction_type": "deposit"
+      }
+    ]
+  },
+  "withdrawal": {
+    "count": 0,
+    "total": 46099,
+    "last_withdrawals": []
+  },
+  "limits": {
+    "deposit": {
+      "per_day": 150000,
+      "per_transaction": 40000,
+      "transaction_count_per_day": 4
+    },
+    "withdrawal": {
+      "per_day": 50000,
+      "per_transaction": 20000,
+      "transaction_count_per_day": 3
+    }
+  }
+}
