@@ -3,7 +3,7 @@
     "amount": 38883
   },
   "deposit": {
-    "count": 1,
+    "count": 0,
     "total": 41747,
     "last_deposits": [
       {
@@ -22,7 +22,7 @@
   },
   "withdrawal": {
     "count": 0,
-    "total": 46099,
+    "total": 10099,
     "last_withdrawals": []
   },
   "limits": {
